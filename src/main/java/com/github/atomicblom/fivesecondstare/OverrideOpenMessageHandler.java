@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.github.atomicblom.fivesecondstare;
 
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.init.Blocks;

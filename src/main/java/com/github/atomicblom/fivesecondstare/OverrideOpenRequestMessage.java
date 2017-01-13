@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.github.atomicblom.fivesecondstare;
 
 import io.netty.buffer.ByteBuf;
 import net.minecraft.util.EnumFacing;
